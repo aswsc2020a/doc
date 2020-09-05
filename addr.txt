@@ -1,2 +1,4 @@
 http://wjs.eotoo.wang  微信h5
 http://kf.eotoo.wang/jump/h5.php  app
+
+以上账号任意写，随意手机号即可
